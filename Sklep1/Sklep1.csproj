@@ -106,6 +106,7 @@
     <Content Include="Content\css\owl.carousel.css" />
     <Content Include="Content\fonts\fontawesome-webfont.svg" />
     <Content Include="Content\fonts\Linearicons-Free.svg" />
+    <Content Include="Content\kontakt.html" />
     <Content Include="Content\index.html" />
     <Content Include="Content\js\ion.rangeSlider.js" />
     <Content Include="Content\js\jquery.ajaxchimp.min.js" />
@@ -306,6 +307,7 @@
     <Content Include="Views\Home\Login.cshtml" />
     <Content Include="Views\Home\Koszyk.cshtml" />
     <Content Include="Views\Home\Sklep.cshtml" />
+    <Content Include="Views\Home\Kontakt.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>

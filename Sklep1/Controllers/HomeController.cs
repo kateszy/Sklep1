@@ -28,6 +28,12 @@ namespace Sklep1.Controllers
         {
             return View();
         }
+
+        public ActionResult Kontakt()
+        {
+            return View();
+
+        }
        
     }
 }

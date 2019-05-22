@@ -19,7 +19,7 @@ namespace Sklep1.Controllers
             return View();
         }
 
-        public ActionResult Sklep()
+        public ActionResult Koszyk()
         {
             return View();
         }

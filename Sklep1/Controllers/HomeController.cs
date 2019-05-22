@@ -23,5 +23,6 @@ namespace Sklep1.Controllers
         {
             return View();
         }
+       
     }
 }
